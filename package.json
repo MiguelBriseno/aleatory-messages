@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Miguel Briseño <miguel.briseno.bustos@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "aleatory-messages": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
